@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/starwars-movies/static/css/main.0c337254.chunk.css",
+    "main.js": "/starwars-movies/static/js/main.fb4ab4d5.chunk.js",
+    "main.js.map": "/starwars-movies/static/js/main.fb4ab4d5.chunk.js.map",
+    "runtime-main.js": "/starwars-movies/static/js/runtime-main.c6c13ccf.js",
+    "runtime-main.js.map": "/starwars-movies/static/js/runtime-main.c6c13ccf.js.map",
+    "static/js/2.094f2a9c.chunk.js": "/starwars-movies/static/js/2.094f2a9c.chunk.js",
+    "static/js/2.094f2a9c.chunk.js.map": "/starwars-movies/static/js/2.094f2a9c.chunk.js.map",
+    "static/js/3.c5a33cac.chunk.js": "/starwars-movies/static/js/3.c5a33cac.chunk.js",
+    "static/js/3.c5a33cac.chunk.js.map": "/starwars-movies/static/js/3.c5a33cac.chunk.js.map",
+    "index.html": "/starwars-movies/index.html",
+    "static/css/main.0c337254.chunk.css.map": "/starwars-movies/static/css/main.0c337254.chunk.css.map",
+    "static/js/2.094f2a9c.chunk.js.LICENSE.txt": "/starwars-movies/static/js/2.094f2a9c.chunk.js.LICENSE.txt",
+    "static/media/a_new_hope.f9754611.jpg": "/starwars-movies/static/media/a_new_hope.f9754611.jpg",
+    "static/media/attack_of_the_clones.db20d120.jpg": "/starwars-movies/static/media/attack_of_the_clones.db20d120.jpg",
+    "static/media/banner.54e4a8d6.png": "/starwars-movies/static/media/banner.54e4a8d6.png",
+    "static/media/empire_strikes_back.71b7c2d3.png": "/starwars-movies/static/media/empire_strikes_back.71b7c2d3.png",
+    "static/media/placeholder.f2633765.jpg": "/starwars-movies/static/media/placeholder.f2633765.jpg",
+    "static/media/return_of_the_jedi.18660c9d.jpg": "/starwars-movies/static/media/return_of_the_jedi.18660c9d.jpg",
+    "static/media/revengeOfTheSith.bbb08d1b.jpg": "/starwars-movies/static/media/revengeOfTheSith.bbb08d1b.jpg",
+    "static/media/the_phantom_menace.6bb03fdd.jpg": "/starwars-movies/static/media/the_phantom_menace.6bb03fdd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6c13ccf.js",
+    "static/js/2.094f2a9c.chunk.js",
+    "static/css/main.0c337254.chunk.css",
+    "static/js/main.fb4ab4d5.chunk.js"
+  ]
+}
