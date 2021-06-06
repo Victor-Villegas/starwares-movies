@@ -23,7 +23,7 @@ import attackOfTheClones from '../images/attack_of_the_clones.jpg';
 import revengeOfTheSeth from '../images/revengeOfTheSith.jpg';
 import imgPlaceHolder from '../images/placeholder.jpg';
 import Modal from '@material-ui/core/Modal';
-import Backdrop from '@material-ui/core/Backdrop';
+// import Backdrop from '@material-ui/core/Backdrop';
 import { useSpring, animated } from 'react-spring';
 import Rating from '@material-ui/lab/Rating';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -280,6 +280,7 @@ Fade.propTypes = {
 
 function MovieCategory (props) {
   const classes = useStyles();
+
   const [open, setOpen] = React.useState(false);
   const [movieData, setMovieData] = useState({
     img: '',
@@ -372,11 +373,11 @@ function MovieCategory (props) {
           className={classes.modal}
           open={open}
           onClose={handleClose}
-          closeAfterTransition
-          BackdropComponent={Backdrop}
-          BackdropProps={{
-            timeout: 500
-          }}
+          // closeAfterTransition
+          // BackdropComponent={Backdrop}
+          // BackdropProps={{
+          //   timeout: 500
+          // }}
         >
           <Fade in={open}>
             <MovieDescription data={movieData} function={handleClose}/>
