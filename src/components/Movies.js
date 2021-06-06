@@ -293,7 +293,7 @@ function MovieCategory (props) {
   });
 
   const handleOpen = (movie) => {
-    axios.all(movie.characters.map(data => axios.get(data)))
+    axios.all(movie.characters.map(data => axios.get(data.replace('http', 'https'))))
       .then(axios.spread(function (...res) {
         setMovieData({
           img: movieBanners.get(movie.episode_id),
