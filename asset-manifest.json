@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/starwars-movies/static/css/main.0c337254.chunk.css",
-    "main.js": "/starwars-movies/static/js/main.2b4741e6.chunk.js",
-    "main.js.map": "/starwars-movies/static/js/main.2b4741e6.chunk.js.map",
+    "main.js": "/starwars-movies/static/js/main.3951e310.chunk.js",
+    "main.js.map": "/starwars-movies/static/js/main.3951e310.chunk.js.map",
     "runtime-main.js": "/starwars-movies/static/js/runtime-main.81eb4562.js",
     "runtime-main.js.map": "/starwars-movies/static/js/runtime-main.81eb4562.js.map",
     "static/js/2.a6dd39c3.chunk.js": "/starwars-movies/static/js/2.a6dd39c3.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.81eb4562.js",
     "static/js/2.a6dd39c3.chunk.js",
     "static/css/main.0c337254.chunk.css",
-    "static/js/main.2b4741e6.chunk.js"
+    "static/js/main.3951e310.chunk.js"
   ]
 }
